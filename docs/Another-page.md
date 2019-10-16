@@ -1,12 +1,4 @@
----
-title: Test
-has_children: true
-nav_order: 2
----
+# Noogy
 
-# Another page
-
-Test this
-
-
-blah
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
